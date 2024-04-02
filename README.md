@@ -4,7 +4,7 @@
 
 This project is an internship assignment completed for Aeonaxy Technologies. It is a React web application built with Vite, Tailwind CSS, useState hook, and Font Awesome icon library.
 
-[Live Demo](#)
+[Live Demo]('https://aeonaxy-by-kamaldeep.netlify.app/')
 
 ## Technologies Used
 
